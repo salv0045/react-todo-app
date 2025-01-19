@@ -1,0 +1,14 @@
+/* src/styles/TodosPage.css */
+.todos-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .todos-page h1 {
+    color: #333;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
